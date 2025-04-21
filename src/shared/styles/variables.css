@@ -1,0 +1,49 @@
+/**
+ * Do not edit directly, this file was auto-generated.
+ */
+
+:root {
+  --light-color-background-brand-primary: #256aea;
+  --light-color-background-brand-accent: #337aff;
+  --light-color-background-default: #f9fbfd;
+  --light-color-background-surface: #eff3f9;
+  --light-color-background-success: #e4f7ee;
+  --light-color-background-error: #fdebec;
+  --light-color-background-interactive-primary-default: #256aea;
+  --light-color-background-interactive-primary-hover: #1f5ad4;
+  --light-color-background-interactive-primary-active: #1a4fc2;
+  --light-color-background-interactive-primary-disabled: #e8eef5;
+  --light-color-background-interactive-secondary-default: #dde6f2;
+  --light-color-background-interactive-secondary-hover: #cfd9e8;
+  --light-color-background-interactive-secondary-active: #c0cde0;
+  --light-color-background-interactive-secondary-disabled: #e8eef5;
+  --light-color-text-general-primary: #1e2a38;
+  --light-color-text-positive-primary: #1b8f5a;
+  --light-color-text-destructive-primary: #b52828;
+  --light-color-text-interactive-primary-default: #f3f7fb;
+  --light-color-text-interactive-primary-hover: #f3f7fb;
+  --light-color-text-interactive-primary-active: #f3f7fb;
+  --light-color-border-surface: #d9e2ef;
+  --light-color-border-interactive-secondary-default: #c6d4e7;
+  --light-color-text-general-secondary: rgba(
+    var(--light-color-text-general-primary),
+    0.6
+  );
+  --light-color-text-interactive-primary-disabled: rgba(
+    var(--light-color-text-general-primary),
+    0.3
+  );
+  --light-color-text-interactive-secondary-default: var(
+    --light-color-text-general-primary
+  );
+  --light-color-text-interactive-secondary-hover: var(
+    --light-color-text-general-primary
+  );
+  --light-color-text-interactive-secondary-active: var(
+    --light-color-text-general-primary
+  );
+  --light-color-text-interactive-secondary-disabled: rgba(
+    var(--light-color-text-general-primary),
+    0.3
+  );
+}

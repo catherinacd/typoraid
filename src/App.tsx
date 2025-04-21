@@ -1,9 +1,11 @@
+import './shared/styles';
+
 function App() {
   return (
-    <main>
-      Hello World!
+    <main style={{ color: 'var(--light-color-background-brand-primary)' }}>
+      Hello world!
     </main>
-  )
+  );
 }
 
-export default App
+export default App;
